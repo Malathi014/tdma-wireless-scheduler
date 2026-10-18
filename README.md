@@ -1,1 +1,1 @@
-# tdma-wireless-scheduler
+# TDMA-WIRELESS-SCHEDULAR
